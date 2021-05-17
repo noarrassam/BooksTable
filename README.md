@@ -57,5 +57,5 @@
 
 ## **Updated Table**
 
-<img src="https://github.com/noarrassam/BooksTable/blob/master/N01389325Project/Database/SQL%20Server%20Table%20Screenshot/Table.JPG" width="1000" height="500">
+<img src="https://github.com/noarrassam/BooksTable/blob/master/Database/SQL%20Server%20Table%20Screenshot/Table.JPG" width="1000" height="500">
 
