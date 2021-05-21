@@ -11,7 +11,7 @@
 * A Delete group (TextBox for Title and Delete Button) that will delete the row in the table corresponding to the text entered as Title), after a confirmation is accepted.
 * An Export Button that will save all the rows in a file, tab-delimited columns.
 
-## Citation
+## References
 
 Udemy Course, [Learn C# With Windows Forms and SQL Server](https://www.udemy.com/course/csharp6windowsforms/). 
 
