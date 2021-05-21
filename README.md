@@ -13,7 +13,7 @@
 
 ## References
 
-Udemy Course, [Learn C# With Windows Forms and SQL Server](https://www.udemy.com/course/csharp6windowsforms/). 
+Cobb, C. 2020 . [Learn C# With Windows Forms and SQL Server](https://www.udemy.com/course/csharp6windowsforms/). 
 
 ## **Search by ID**
 
